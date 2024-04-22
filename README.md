@@ -51,9 +51,9 @@ This paper forms the scientific basis of the algorithm implemented in the script
    g++ -o mcc_task_scheduler mcc_task_scheduler.cpp
    ```
 4. Run the compiled program:
-  ```bash
-  ./mcc_task_scheduler
-  ```
+   ```bash
+   ./mcc_task_scheduler
+   ```
 
 ## Usage
 
